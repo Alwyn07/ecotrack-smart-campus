@@ -92,8 +92,22 @@ does not establish accuracy for a real campus.
 
 \- \*\*CSV Export:\*\* Stores reports and supports exporting hourly forecast data.
 
+## Dashboard Preview
 
+### Screenshot 1 — Dashboard Overview
+![EcoTrack Dashboard Overview](docs/screenshots/eco1.png)
 
+### Screenshot 2 — Energy Consumption Analytics
+![EcoTrack Energy Analytics](docs/screenshots/eco2.png)
+
+### Screenshot 3 — Energy Demand Forecast
+![EcoTrack Energy Forecast](docs/screenshots/eco3.png)
+
+### Screenshot 4 — Energy-Waste Detection
+![EcoTrack Energy-Waste Detection](docs/screenshots/eco4.png)
+
+### Screenshot 5 — Recommendations and Insights
+![EcoTrack Recommendations](docs/screenshots/eco5.png)
 \## System Architecture
 
 
