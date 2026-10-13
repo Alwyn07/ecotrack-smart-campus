@@ -98,10 +98,10 @@ does not establish accuracy for a real campus.
 ![EcoTrack Dashboard Overview](docs/screenshots/eco1.png)
 
 ### Screenshot 2 — Energy Consumption Analytics
-![EcoTrack Energy Analytics](docs/screenshots/eco2.png)
+![EcoTrack Energy Analytics](docs/screenshots/eco3.png)
 
 ### Screenshot 3 — Energy Demand Forecast
-![EcoTrack Energy Forecast](docs/screenshots/eco3.png)
+![EcoTrack Energy Forecast](docs/screenshots/eco2.png)
 
 ### Screenshot 4 — Energy-Waste Detection
 ![EcoTrack Energy-Waste Detection](docs/screenshots/eco4.png)
