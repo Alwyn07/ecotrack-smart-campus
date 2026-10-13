@@ -1,0 +1,2 @@
+voltage,building,energy,power,timestamp,occupancy,room,current,alert
+230.0,Building A,1.61,1608.0,18:00,0,Classroom 102,6.99,High power consumption while room is unoccupied

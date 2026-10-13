@@ -1,0 +1,73 @@
+day,weekday,timestamp,building,room,predicted_occupancy,predicted_power_w,predicted_energy_kwh
+31,3,07:00,Building A,Classroom 101,0.0,0.27,0.0
+31,3,08:00,Building A,Classroom 101,20.9,388.0,0.388
+31,3,09:00,Building A,Classroom 101,18.7,688.0,0.688
+31,3,10:00,Building A,Classroom 101,21.1,2188.0,2.188
+31,3,11:00,Building A,Classroom 101,20.4,1888.0,1.888
+31,3,12:00,Building A,Classroom 101,20.1,1888.0,1.888
+31,3,13:00,Building A,Classroom 101,19.9,1888.0,1.888
+31,3,14:00,Building A,Classroom 101,18.6,2185.0,2.185
+31,3,15:00,Building A,Classroom 101,20.8,1888.0,1.888
+31,3,16:00,Building A,Classroom 101,21.3,1888.0,1.888
+31,3,17:00,Building A,Classroom 101,0.0,0.07,0.0
+31,3,18:00,Building A,Classroom 101,0.0,0.0,0.0
+31,3,07:00,Building A,Classroom 102,0.0,27.34,0.027
+31,3,08:00,Building A,Classroom 102,21.3,388.0,0.388
+31,3,09:00,Building A,Classroom 102,19.4,388.0,0.388
+31,3,10:00,Building A,Classroom 102,19.3,1888.0,1.888
+31,3,11:00,Building A,Classroom 102,19.1,1888.0,1.888
+31,3,12:00,Building A,Classroom 102,19.4,1888.0,1.888
+31,3,13:00,Building A,Classroom 102,18.0,1888.0,1.888
+31,3,14:00,Building A,Classroom 102,18.5,1888.0,1.888
+31,3,15:00,Building A,Classroom 102,18.9,1888.0,1.888
+31,3,16:00,Building A,Classroom 102,20.5,1888.0,1.888
+31,3,17:00,Building A,Classroom 102,0.0,0.12,0.0
+31,3,18:00,Building A,Classroom 102,0.0,25.97,0.026
+31,3,07:00,Building A,Computer Lab,0.0,31.83,0.032
+31,3,08:00,Building A,Computer Lab,26.0,5564.0,5.564
+31,3,09:00,Building A,Computer Lab,20.4,5564.0,5.564
+31,3,10:00,Building A,Computer Lab,24.6,5564.0,5.564
+31,3,11:00,Building A,Computer Lab,25.4,5564.0,5.564
+31,3,12:00,Building A,Computer Lab,22.6,5564.0,5.564
+31,3,13:00,Building A,Computer Lab,23.7,5564.0,5.564
+31,3,14:00,Building A,Computer Lab,20.7,5564.0,5.564
+31,3,15:00,Building A,Computer Lab,23.3,5564.0,5.564
+31,3,16:00,Building A,Computer Lab,22.7,5564.0,5.564
+31,3,17:00,Building A,Computer Lab,0.0,0.0,0.0
+31,3,18:00,Building A,Computer Lab,0.0,0.0,0.0
+31,3,07:00,Building B,Classroom 201,0.0,0.18,0.0
+31,3,08:00,Building B,Classroom 201,17.3,388.0,0.388
+31,3,09:00,Building B,Classroom 201,18.6,388.0,0.388
+31,3,10:00,Building B,Classroom 201,21.0,388.0,0.388
+31,3,11:00,Building B,Classroom 201,19.7,388.0,0.388
+31,3,12:00,Building B,Classroom 201,18.8,388.0,0.388
+31,3,13:00,Building B,Classroom 201,19.5,388.0,0.388
+31,3,14:00,Building B,Classroom 201,18.3,388.0,0.388
+31,3,15:00,Building B,Classroom 201,18.3,388.0,0.388
+31,3,16:00,Building B,Classroom 201,17.6,388.0,0.388
+31,3,17:00,Building B,Classroom 201,0.0,27.21,0.027
+31,3,18:00,Building B,Classroom 201,0.0,27.24,0.027
+31,3,07:00,Building B,Laboratory,0.0,697.85,0.698
+31,3,08:00,Building B,Laboratory,17.0,424.0,0.424
+31,3,09:00,Building B,Laboratory,17.5,424.0,0.424
+31,3,10:00,Building B,Laboratory,19.7,3424.0,3.424
+31,3,11:00,Building B,Laboratory,17.8,3424.0,3.424
+31,3,12:00,Building B,Laboratory,16.9,3424.0,3.424
+31,3,13:00,Building B,Laboratory,17.3,3424.0,3.424
+31,3,14:00,Building B,Laboratory,18.6,3424.0,3.424
+31,3,15:00,Building B,Laboratory,17.7,3424.0,3.424
+31,3,16:00,Building B,Laboratory,15.2,3424.0,3.424
+31,3,17:00,Building B,Laboratory,0.0,14.17,0.014
+31,3,18:00,Building B,Laboratory,0.0,0.16,0.0
+31,3,07:00,Building B,Office,0.0,332.85,0.333
+31,3,08:00,Building B,Office,6.3,822.0,0.822
+31,3,09:00,Building B,Office,7.3,822.0,0.822
+31,3,10:00,Building B,Office,7.7,2322.0,2.322
+31,3,11:00,Building B,Office,7.3,2322.0,2.322
+31,3,12:00,Building B,Office,7.0,2322.0,2.322
+31,3,13:00,Building B,Office,6.6,2322.0,2.322
+31,3,14:00,Building B,Office,6.9,2322.0,2.322
+31,3,15:00,Building B,Office,6.8,2322.0,2.322
+31,3,16:00,Building B,Office,7.0,2322.0,2.322
+31,3,17:00,Building B,Office,0.0,33.85,0.034
+31,3,18:00,Building B,Office,0.0,18.58,0.019

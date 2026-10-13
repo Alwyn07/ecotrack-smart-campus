@@ -1,0 +1,43 @@
+timestamp,building,room,occupancy,voltage,current,power,energy
+07:00,Building A,Classroom 101,0,230,0.0,0,0.0
+07:00,Building A,Classroom 102,0,230,0.0,0,0.0
+07:00,Building A,Computer Lab,0,230,0.0,0,0.0
+07:00,Building B,Classroom 201,0,230,0.0,0,0.0
+07:00,Building B,Laboratory,0,230,0.0,0,0.0
+07:00,Building B,Office,3,230,10.1,2322,2.32
+08:00,Building A,Classroom 101,20,230,1.69,388,0.39
+08:00,Building A,Classroom 102,18,230,1.69,388,0.39
+08:00,Building A,Computer Lab,0,230,0.0,0,0.0
+08:00,Building B,Classroom 201,20,230,1.69,388,0.39
+08:00,Building B,Laboratory,0,230,0.0,0,0.0
+08:00,Building B,Office,5,230,10.1,2322,2.32
+09:00,Building A,Classroom 101,32,230,2.99,688,0.69
+09:00,Building A,Classroom 102,28,230,8.21,1888,1.89
+09:00,Building A,Computer Lab,35,230,24.19,5564,5.56
+09:00,Building B,Classroom 201,30,230,1.69,388,0.39
+09:00,Building B,Laboratory,25,230,14.89,3424,3.42
+09:00,Building B,Office,8,230,10.1,2322,2.32
+13:00,Building A,Classroom 101,0,230,0.0,0,0.0
+13:00,Building A,Classroom 102,0,230,0.0,0,0.0
+13:00,Building A,Computer Lab,0,230,0.0,0,0.0
+13:00,Building B,Classroom 201,0,230,0.0,0,0.0
+13:00,Building B,Laboratory,0,230,0.0,0,0.0
+13:00,Building B,Office,4,230,10.1,2322,2.32
+14:00,Building A,Classroom 101,25,230,1.69,388,0.39
+14:00,Building A,Classroom 102,20,230,8.21,1888,1.89
+14:00,Building A,Computer Lab,40,230,24.19,5564,5.56
+14:00,Building B,Classroom 201,0,230,0.0,0,0.0
+14:00,Building B,Laboratory,30,230,14.89,3424,3.42
+14:00,Building B,Office,8,230,10.1,2322,2.32
+17:00,Building A,Classroom 101,0,230,0.0,0,0.0
+17:00,Building A,Classroom 102,0,230,0.0,0,0.0
+17:00,Building A,Computer Lab,0,230,0.0,0,0.0
+17:00,Building B,Classroom 201,0,230,0.0,0,0.0
+17:00,Building B,Laboratory,0,230,0.0,0,0.0
+17:00,Building B,Office,5,230,10.1,2322,2.32
+18:00,Building A,Classroom 101,0,230,0.0,0,0.0
+18:00,Building A,Classroom 102,0,230,6.99,1608,1.61
+18:00,Building A,Computer Lab,0,230,0.0,0,0.0
+18:00,Building B,Classroom 201,0,230,0.0,0,0.0
+18:00,Building B,Laboratory,0,230,0.0,0,0.0
+18:00,Building B,Office,0,230,0.0,0,0.0

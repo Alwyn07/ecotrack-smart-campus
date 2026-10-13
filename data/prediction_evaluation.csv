@@ -1,0 +1,433 @@
+day,weekday,timestamp,hour,building,room,occupancy,power,predicted_power,error_w,absolute_error_w
+25,4,07:00,7,Building A,Classroom 101,0,0,0.58,0.58,0.58
+25,4,07:00,7,Building A,Classroom 102,0,0,35.06,35.06,35.06
+25,4,07:00,7,Building A,Computer Lab,0,0,48.41,48.41,48.41
+25,4,07:00,7,Building B,Classroom 201,0,0,36.98,36.98,36.98
+25,4,07:00,7,Building B,Laboratory,0,0,36.33,36.33,36.33
+25,4,07:00,7,Building B,Office,0,0,7.64,7.64,7.64
+25,4,08:00,8,Building A,Classroom 101,16,388,388.0,0.0,0.0
+25,4,08:00,8,Building A,Classroom 102,14,388,388.0,0.0,0.0
+25,4,08:00,8,Building A,Computer Lab,33,5564,5564.0,0.0,0.0
+25,4,08:00,8,Building B,Classroom 201,21,388,388.0,0.0,0.0
+25,4,08:00,8,Building B,Laboratory,24,424,424.0,0.0,0.0
+25,4,08:00,8,Building B,Office,6,822,822.0,0.0,0.0
+25,4,09:00,9,Building A,Classroom 101,18,688,688.0,0.0,0.0
+25,4,09:00,9,Building A,Classroom 102,25,388,388.0,0.0,0.0
+25,4,09:00,9,Building A,Computer Lab,38,5564,5564.0,0.0,0.0
+25,4,09:00,9,Building B,Classroom 201,24,388,388.0,0.0,0.0
+25,4,09:00,9,Building B,Laboratory,26,424,424.0,0.0,0.0
+25,4,09:00,9,Building B,Office,10,822,822.0,0.0,0.0
+25,4,10:00,10,Building A,Classroom 101,20,2188,2188.0,0.0,0.0
+25,4,10:00,10,Building A,Classroom 102,20,1888,1888.0,0.0,0.0
+25,4,10:00,10,Building A,Computer Lab,28,5564,5564.0,0.0,0.0
+25,4,10:00,10,Building B,Classroom 201,13,388,388.0,0.0,0.0
+25,4,10:00,10,Building B,Laboratory,31,3424,3424.0,0.0,0.0
+25,4,10:00,10,Building B,Office,11,2322,2322.0,0.0,0.0
+25,4,11:00,11,Building A,Classroom 101,21,1888,1888.0,0.0,0.0
+25,4,11:00,11,Building A,Classroom 102,23,1888,1888.0,0.0,0.0
+25,4,11:00,11,Building A,Computer Lab,24,5564,5564.0,0.0,0.0
+25,4,11:00,11,Building B,Classroom 201,31,388,388.0,0.0,0.0
+25,4,11:00,11,Building B,Laboratory,33,3424,3424.0,0.0,0.0
+25,4,11:00,11,Building B,Office,6,2322,2322.0,0.0,0.0
+25,4,12:00,12,Building A,Classroom 101,24,1888,1888.0,0.0,0.0
+25,4,12:00,12,Building A,Classroom 102,13,1888,1888.0,0.0,0.0
+25,4,12:00,12,Building A,Computer Lab,29,5564,5564.0,0.0,0.0
+25,4,12:00,12,Building B,Classroom 201,19,388,388.0,0.0,0.0
+25,4,12:00,12,Building B,Laboratory,20,3424,3424.0,0.0,0.0
+25,4,12:00,12,Building B,Office,10,2322,2322.0,0.0,0.0
+25,4,13:00,13,Building A,Classroom 101,22,1888,1888.0,0.0,0.0
+25,4,13:00,13,Building A,Classroom 102,24,1888,1888.0,0.0,0.0
+25,4,13:00,13,Building A,Computer Lab,41,5564,5564.0,0.0,0.0
+25,4,13:00,13,Building B,Classroom 201,35,388,388.0,0.0,0.0
+25,4,13:00,13,Building B,Laboratory,10,3424,3424.0,0.0,0.0
+25,4,13:00,13,Building B,Office,9,2322,2322.0,0.0,0.0
+25,4,14:00,14,Building A,Classroom 101,36,2188,2185.0,-3.0,3.0
+25,4,14:00,14,Building A,Classroom 102,27,1888,1888.0,0.0,0.0
+25,4,14:00,14,Building A,Computer Lab,20,5564,5564.0,0.0,0.0
+25,4,14:00,14,Building B,Classroom 201,29,388,388.0,0.0,0.0
+25,4,14:00,14,Building B,Laboratory,14,3424,3424.0,0.0,0.0
+25,4,14:00,14,Building B,Office,5,2322,2322.0,0.0,0.0
+25,4,15:00,15,Building A,Classroom 101,30,1888,1888.0,0.0,0.0
+25,4,15:00,15,Building A,Classroom 102,27,1888,1888.0,0.0,0.0
+25,4,15:00,15,Building A,Computer Lab,41,5564,5564.0,0.0,0.0
+25,4,15:00,15,Building B,Classroom 201,22,388,388.0,0.0,0.0
+25,4,15:00,15,Building B,Laboratory,36,3424,3424.0,0.0,0.0
+25,4,15:00,15,Building B,Office,9,2322,2322.0,0.0,0.0
+25,4,16:00,16,Building A,Classroom 101,33,1888,1888.0,0.0,0.0
+25,4,16:00,16,Building A,Classroom 102,15,1888,1888.0,0.0,0.0
+25,4,16:00,16,Building A,Computer Lab,15,5564,5564.0,0.0,0.0
+25,4,16:00,16,Building B,Classroom 201,34,388,388.0,0.0,0.0
+25,4,16:00,16,Building B,Laboratory,35,3424,3424.0,0.0,0.0
+25,4,16:00,16,Building B,Office,15,2322,2322.0,0.0,0.0
+25,4,17:00,17,Building A,Classroom 101,0,108,0.24,-107.76,107.76
+25,4,17:00,17,Building A,Classroom 102,0,0,0.08,0.08,0.08
+25,4,17:00,17,Building A,Computer Lab,0,0,0.0,0.0,0.0
+25,4,17:00,17,Building B,Classroom 201,0,0,0.45,0.45,0.45
+25,4,17:00,17,Building B,Laboratory,0,144,934.19,790.19,790.19
+25,4,17:00,17,Building B,Office,0,0,22.42,22.42,22.42
+25,4,18:00,18,Building A,Classroom 101,0,0,0.0,0.0,0.0
+25,4,18:00,18,Building A,Classroom 102,0,108,0.54,-107.46,107.46
+25,4,18:00,18,Building A,Computer Lab,0,0,0.0,0.0,0.0
+25,4,18:00,18,Building B,Classroom 201,0,0,0.85,0.85,0.85
+25,4,18:00,18,Building B,Laboratory,0,0,50.0,50.0,50.0
+25,4,18:00,18,Building B,Office,0,72,0.88,-71.12,71.12
+26,5,07:00,7,Building A,Classroom 101,0,0,0.0,0.0,0.0
+26,5,07:00,7,Building A,Classroom 102,0,0,0.34,0.34,0.34
+26,5,07:00,7,Building A,Computer Lab,0,0,1.72,1.72,1.72
+26,5,07:00,7,Building B,Classroom 201,0,0,33.7,33.7,33.7
+26,5,07:00,7,Building B,Laboratory,0,0,1.28,1.28,1.28
+26,5,07:00,7,Building B,Office,0,0,0.0,0.0,0.0
+26,5,08:00,8,Building A,Classroom 101,24,388,388.0,0.0,0.0
+26,5,08:00,8,Building A,Classroom 102,36,388,388.0,0.0,0.0
+26,5,08:00,8,Building A,Computer Lab,45,5564,5564.0,0.0,0.0
+26,5,08:00,8,Building B,Classroom 201,23,388,388.0,0.0,0.0
+26,5,08:00,8,Building B,Laboratory,20,424,424.0,0.0,0.0
+26,5,08:00,8,Building B,Office,10,822,822.0,0.0,0.0
+26,5,09:00,9,Building A,Classroom 101,38,688,688.0,0.0,0.0
+26,5,09:00,9,Building A,Classroom 102,40,388,388.0,0.0,0.0
+26,5,09:00,9,Building A,Computer Lab,20,5564,5564.0,0.0,0.0
+26,5,09:00,9,Building B,Classroom 201,18,388,388.0,0.0,0.0
+26,5,09:00,9,Building B,Laboratory,31,424,424.0,0.0,0.0
+26,5,09:00,9,Building B,Office,8,822,822.0,0.0,0.0
+26,5,10:00,10,Building A,Classroom 101,18,2188,2188.0,0.0,0.0
+26,5,10:00,10,Building A,Classroom 102,13,1888,1888.0,0.0,0.0
+26,5,10:00,10,Building A,Computer Lab,27,5564,5564.0,0.0,0.0
+26,5,10:00,10,Building B,Classroom 201,23,388,388.0,0.0,0.0
+26,5,10:00,10,Building B,Laboratory,27,3424,3424.0,0.0,0.0
+26,5,10:00,10,Building B,Office,7,2322,2322.0,0.0,0.0
+26,5,11:00,11,Building A,Classroom 101,33,1888,1888.0,0.0,0.0
+26,5,11:00,11,Building A,Classroom 102,32,1888,1888.0,0.0,0.0
+26,5,11:00,11,Building A,Computer Lab,30,5564,5564.0,0.0,0.0
+26,5,11:00,11,Building B,Classroom 201,18,388,388.0,0.0,0.0
+26,5,11:00,11,Building B,Laboratory,25,3424,3424.0,0.0,0.0
+26,5,11:00,11,Building B,Office,12,2322,2322.0,0.0,0.0
+26,5,12:00,12,Building A,Classroom 101,23,1888,1888.0,0.0,0.0
+26,5,12:00,12,Building A,Classroom 102,20,1888,1888.0,0.0,0.0
+26,5,12:00,12,Building A,Computer Lab,31,5564,5564.0,0.0,0.0
+26,5,12:00,12,Building B,Classroom 201,22,388,388.0,0.0,0.0
+26,5,12:00,12,Building B,Laboratory,22,3424,3424.0,0.0,0.0
+26,5,12:00,12,Building B,Office,8,2322,2322.0,0.0,0.0
+26,5,13:00,13,Building A,Classroom 101,21,1888,1888.0,0.0,0.0
+26,5,13:00,13,Building A,Classroom 102,33,1888,1888.0,0.0,0.0
+26,5,13:00,13,Building A,Computer Lab,29,5564,5564.0,0.0,0.0
+26,5,13:00,13,Building B,Classroom 201,26,388,388.0,0.0,0.0
+26,5,13:00,13,Building B,Laboratory,30,3424,3424.0,0.0,0.0
+26,5,13:00,13,Building B,Office,8,2322,2322.0,0.0,0.0
+26,5,14:00,14,Building A,Classroom 101,15,2188,2184.0,-4.0,4.0
+26,5,14:00,14,Building A,Classroom 102,36,1888,1888.0,0.0,0.0
+26,5,14:00,14,Building A,Computer Lab,14,5564,5564.0,0.0,0.0
+26,5,14:00,14,Building B,Classroom 201,29,388,388.0,0.0,0.0
+26,5,14:00,14,Building B,Laboratory,18,3424,3424.0,0.0,0.0
+26,5,14:00,14,Building B,Office,7,2322,2322.0,0.0,0.0
+26,5,15:00,15,Building A,Classroom 101,14,1888,1891.0,3.0,3.0
+26,5,15:00,15,Building A,Classroom 102,38,1888,1888.0,0.0,0.0
+26,5,15:00,15,Building A,Computer Lab,28,5564,5564.0,0.0,0.0
+26,5,15:00,15,Building B,Classroom 201,22,388,388.0,0.0,0.0
+26,5,15:00,15,Building B,Laboratory,32,3424,3424.0,0.0,0.0
+26,5,15:00,15,Building B,Office,5,2322,2322.0,0.0,0.0
+26,5,16:00,16,Building A,Classroom 101,28,1888,1888.0,0.0,0.0
+26,5,16:00,16,Building A,Classroom 102,26,1888,1889.0,1.0,1.0
+26,5,16:00,16,Building A,Computer Lab,33,5564,5564.0,0.0,0.0
+26,5,16:00,16,Building B,Classroom 201,16,388,388.0,0.0,0.0
+26,5,16:00,16,Building B,Laboratory,39,3424,3424.0,0.0,0.0
+26,5,16:00,16,Building B,Office,7,2322,2322.0,0.0,0.0
+26,5,17:00,17,Building A,Classroom 101,0,0,33.48,33.48,33.48
+26,5,17:00,17,Building A,Classroom 102,0,0,0.0,0.0,0.0
+26,5,17:00,17,Building A,Computer Lab,0,0,0.27,0.27,0.27
+26,5,17:00,17,Building B,Classroom 201,0,0,0.23,0.23,0.23
+26,5,17:00,17,Building B,Laboratory,0,0,46.07,46.07,46.07
+26,5,17:00,17,Building B,Office,0,0,0.48,0.48,0.48
+26,5,18:00,18,Building A,Classroom 101,0,0,0.5,0.5,0.5
+26,5,18:00,18,Building A,Classroom 102,0,108,0.0,-108.0,108.0
+26,5,18:00,18,Building A,Computer Lab,0,0,0.0,0.0,0.0
+26,5,18:00,18,Building B,Classroom 201,0,0,0.74,0.74,0.74
+26,5,18:00,18,Building B,Laboratory,0,3000,2.72,-2997.28,2997.28
+26,5,18:00,18,Building B,Office,0,0,24.21,24.21,24.21
+27,6,07:00,7,Building A,Classroom 101,0,0,0.0,0.0,0.0
+27,6,07:00,7,Building A,Classroom 102,0,0,0.0,0.0,0.0
+27,6,07:00,7,Building A,Computer Lab,0,0,0.0,0.0,0.0
+27,6,07:00,7,Building B,Classroom 201,0,0,1.27,1.27,1.27
+27,6,07:00,7,Building B,Laboratory,0,0,0.0,0.0,0.0
+27,6,07:00,7,Building B,Office,0,0,0.0,0.0,0.0
+27,6,08:00,8,Building A,Classroom 101,0,0,0.0,0.0,0.0
+27,6,08:00,8,Building A,Classroom 102,0,0,0.0,0.0,0.0
+27,6,08:00,8,Building A,Computer Lab,0,0,0.0,0.0,0.0
+27,6,08:00,8,Building B,Classroom 201,0,0,0.05,0.05,0.05
+27,6,08:00,8,Building B,Laboratory,0,0,0.0,0.0,0.0
+27,6,08:00,8,Building B,Office,0,0,0.0,0.0,0.0
+27,6,09:00,9,Building A,Classroom 101,0,0,15.33,15.33,15.33
+27,6,09:00,9,Building A,Classroom 102,0,1500,0.0,-1500.0,1500.0
+27,6,09:00,9,Building A,Computer Lab,0,0,0.0,0.0,0.0
+27,6,09:00,9,Building B,Classroom 201,0,0,0.0,0.0,0.0
+27,6,09:00,9,Building B,Laboratory,0,0,0.0,0.0,0.0
+27,6,09:00,9,Building B,Office,0,0,0.0,0.0,0.0
+27,6,10:00,10,Building A,Classroom 101,0,0,0.24,0.24,0.24
+27,6,10:00,10,Building A,Classroom 102,0,0,1.65,1.65,1.65
+27,6,10:00,10,Building A,Computer Lab,0,0,0.0,0.0,0.0
+27,6,10:00,10,Building B,Classroom 201,0,0,0.0,0.0,0.0
+27,6,10:00,10,Building B,Laboratory,0,0,0.0,0.0,0.0
+27,6,10:00,10,Building B,Office,0,0,23.25,23.25,23.25
+27,6,11:00,11,Building A,Classroom 101,0,0,0.0,0.0,0.0
+27,6,11:00,11,Building A,Classroom 102,0,0,0.0,0.0,0.0
+27,6,11:00,11,Building A,Computer Lab,0,0,0.0,0.0,0.0
+27,6,11:00,11,Building B,Classroom 201,0,0,0.0,0.0,0.0
+27,6,11:00,11,Building B,Laboratory,0,0,0.0,0.0,0.0
+27,6,11:00,11,Building B,Office,0,0,7.95,7.95,7.95
+27,6,12:00,12,Building A,Classroom 101,0,0,0.33,0.33,0.33
+27,6,12:00,12,Building A,Classroom 102,0,0,4.5,4.5,4.5
+27,6,12:00,12,Building A,Computer Lab,0,0,0.14,0.14,0.14
+27,6,12:00,12,Building B,Classroom 201,0,0,0.6,0.6,0.6
+27,6,12:00,12,Building B,Laboratory,0,0,0.0,0.0,0.0
+27,6,12:00,12,Building B,Office,0,0,22.41,22.41,22.41
+27,6,13:00,13,Building A,Classroom 101,0,108,0.0,-108.0,108.0
+27,6,13:00,13,Building A,Classroom 102,0,0,11.43,11.43,11.43
+27,6,13:00,13,Building A,Computer Lab,0,0,0.24,0.24,0.24
+27,6,13:00,13,Building B,Classroom 201,0,0,0.0,0.0,0.0
+27,6,13:00,13,Building B,Laboratory,0,0,0.0,0.0,0.0
+27,6,13:00,13,Building B,Office,0,0,21.11,21.11,21.11
+27,6,14:00,14,Building A,Classroom 101,0,0,0.0,0.0,0.0
+27,6,14:00,14,Building A,Classroom 102,0,0,14.21,14.21,14.21
+27,6,14:00,14,Building A,Computer Lab,0,0,0.08,0.08,0.08
+27,6,14:00,14,Building B,Classroom 201,0,0,0.0,0.0,0.0
+27,6,14:00,14,Building B,Laboratory,0,0,0.0,0.0,0.0
+27,6,14:00,14,Building B,Office,0,0,510.93,510.93,510.93
+27,6,15:00,15,Building A,Classroom 101,0,0,0.12,0.12,0.12
+27,6,15:00,15,Building A,Classroom 102,0,0,511.79,511.79,511.79
+27,6,15:00,15,Building A,Computer Lab,0,0,42.56,42.56,42.56
+27,6,15:00,15,Building B,Classroom 201,0,0,2.26,2.26,2.26
+27,6,15:00,15,Building B,Laboratory,0,144,1.31,-142.69,142.69
+27,6,15:00,15,Building B,Office,0,0,495.13,495.13,495.13
+27,6,16:00,16,Building A,Classroom 101,0,0,36.47,36.47,36.47
+27,6,16:00,16,Building A,Classroom 102,0,0,12.51,12.51,12.51
+27,6,16:00,16,Building A,Computer Lab,0,0,0.36,0.36,0.36
+27,6,16:00,16,Building B,Classroom 201,0,0,0.6,0.6,0.6
+27,6,16:00,16,Building B,Laboratory,0,0,0.0,0.0,0.0
+27,6,16:00,16,Building B,Office,0,0,3.41,3.41,3.41
+27,6,17:00,17,Building A,Classroom 101,0,0,0.75,0.75,0.75
+27,6,17:00,17,Building A,Classroom 102,0,0,1.73,1.73,1.73
+27,6,17:00,17,Building A,Computer Lab,0,0,0.56,0.56,0.56
+27,6,17:00,17,Building B,Classroom 201,0,0,34.19,34.19,34.19
+27,6,17:00,17,Building B,Laboratory,0,0,0.24,0.24,0.24
+27,6,17:00,17,Building B,Office,0,0,0.1,0.1,0.1
+27,6,18:00,18,Building A,Classroom 101,0,0,0.12,0.12,0.12
+27,6,18:00,18,Building A,Classroom 102,0,108,6.25,-101.75,101.75
+27,6,18:00,18,Building A,Computer Lab,0,0,0.12,0.12,0.12
+27,6,18:00,18,Building B,Classroom 201,0,0,38.85,38.85,38.85
+27,6,18:00,18,Building B,Laboratory,0,0,0.16,0.16,0.16
+27,6,18:00,18,Building B,Office,0,0,0.47,0.47,0.47
+28,7,07:00,7,Building A,Classroom 101,0,0,0.0,0.0,0.0
+28,7,07:00,7,Building A,Classroom 102,0,0,0.0,0.0,0.0
+28,7,07:00,7,Building A,Computer Lab,0,0,0.18,0.18,0.18
+28,7,07:00,7,Building B,Classroom 201,0,0,33.22,33.22,33.22
+28,7,07:00,7,Building B,Laboratory,0,0,0.0,0.0,0.0
+28,7,07:00,7,Building B,Office,0,0,0.18,0.18,0.18
+28,7,08:00,8,Building A,Classroom 101,0,0,1.0,1.0,1.0
+28,7,08:00,8,Building A,Classroom 102,0,0,0.0,0.0,0.0
+28,7,08:00,8,Building A,Computer Lab,0,0,0.0,0.0,0.0
+28,7,08:00,8,Building B,Classroom 201,0,0,1.24,1.24,1.24
+28,7,08:00,8,Building B,Laboratory,0,0,0.0,0.0,0.0
+28,7,08:00,8,Building B,Office,0,0,0.0,0.0,0.0
+28,7,09:00,9,Building A,Classroom 101,0,0,444.36,444.36,444.36
+28,7,09:00,9,Building A,Classroom 102,0,1500,0.18,-1499.82,1499.82
+28,7,09:00,9,Building A,Computer Lab,0,0,8.67,8.67,8.67
+28,7,09:00,9,Building B,Classroom 201,0,108,5.0,-103.0,103.0
+28,7,09:00,9,Building B,Laboratory,0,0,0.0,0.0,0.0
+28,7,09:00,9,Building B,Office,0,0,3.0,3.0,3.0
+28,7,10:00,10,Building A,Classroom 101,0,0,1.76,1.76,1.76
+28,7,10:00,10,Building A,Classroom 102,0,0,33.61,33.61,33.61
+28,7,10:00,10,Building A,Computer Lab,0,0,0.24,0.24,0.24
+28,7,10:00,10,Building B,Classroom 201,0,0,0.0,0.0,0.0
+28,7,10:00,10,Building B,Laboratory,0,0,0.0,0.0,0.0
+28,7,10:00,10,Building B,Office,0,0,14.46,14.46,14.46
+28,7,11:00,11,Building A,Classroom 101,0,0,2.09,2.09,2.09
+28,7,11:00,11,Building A,Classroom 102,0,0,2.6,2.6,2.6
+28,7,11:00,11,Building A,Computer Lab,0,144,1.25,-142.75,142.75
+28,7,11:00,11,Building B,Classroom 201,0,0,0.0,0.0,0.0
+28,7,11:00,11,Building B,Laboratory,0,0,0.0,0.0,0.0
+28,7,11:00,11,Building B,Office,0,0,449.52,449.52,449.52
+28,7,12:00,12,Building A,Classroom 101,0,0,34.15,34.15,34.15
+28,7,12:00,12,Building A,Classroom 102,0,0,492.89,492.89,492.89
+28,7,12:00,12,Building A,Computer Lab,0,0,2.21,2.21,2.21
+28,7,12:00,12,Building B,Classroom 201,0,0,31.61,31.61,31.61
+28,7,12:00,12,Building B,Laboratory,0,0,0.0,0.0,0.0
+28,7,12:00,12,Building B,Office,0,0,1.11,1.11,1.11
+28,7,13:00,13,Building A,Classroom 101,0,0,1.09,1.09,1.09
+28,7,13:00,13,Building A,Classroom 102,0,0,479.86,479.86,479.86
+28,7,13:00,13,Building A,Computer Lab,0,0,47.95,47.95,47.95
+28,7,13:00,13,Building B,Classroom 201,0,0,0.31,0.31,0.31
+28,7,13:00,13,Building B,Laboratory,0,3000,0.21,-2999.79,2999.79
+28,7,13:00,13,Building B,Office,0,72,3.83,-68.17,68.17
+28,7,14:00,14,Building A,Classroom 101,0,0,0.0,0.0,0.0
+28,7,14:00,14,Building A,Classroom 102,0,0,3.72,3.72,3.72
+28,7,14:00,14,Building A,Computer Lab,0,0,1.04,1.04,1.04
+28,7,14:00,14,Building B,Classroom 201,0,0,0.24,0.24,0.24
+28,7,14:00,14,Building B,Laboratory,0,0,0.0,0.0,0.0
+28,7,14:00,14,Building B,Office,0,0,496.78,496.78,496.78
+28,7,15:00,15,Building A,Classroom 101,0,0,1.32,1.32,1.32
+28,7,15:00,15,Building A,Classroom 102,0,0,40.16,40.16,40.16
+28,7,15:00,15,Building A,Computer Lab,0,0,45.75,45.75,45.75
+28,7,15:00,15,Building B,Classroom 201,0,0,32.27,32.27,32.27
+28,7,15:00,15,Building B,Laboratory,0,0,0.0,0.0,0.0
+28,7,15:00,15,Building B,Office,0,0,21.93,21.93,21.93
+28,7,16:00,16,Building A,Classroom 101,0,0,35.85,35.85,35.85
+28,7,16:00,16,Building A,Classroom 102,0,0,0.68,0.68,0.68
+28,7,16:00,16,Building A,Computer Lab,0,0,4.16,4.16,4.16
+28,7,16:00,16,Building B,Classroom 201,0,0,1.29,1.29,1.29
+28,7,16:00,16,Building B,Laboratory,0,144,0.0,-144.0,144.0
+28,7,16:00,16,Building B,Office,0,0,0.96,0.96,0.96
+28,7,17:00,17,Building A,Classroom 101,0,0,0.93,0.93,0.93
+28,7,17:00,17,Building A,Classroom 102,0,0,1.0,1.0,1.0
+28,7,17:00,17,Building A,Computer Lab,0,0,48.35,48.35,48.35
+28,7,17:00,17,Building B,Classroom 201,0,0,0.37,0.37,0.37
+28,7,17:00,17,Building B,Laboratory,0,0,0.24,0.24,0.24
+28,7,17:00,17,Building B,Office,0,0,21.18,21.18,21.18
+28,7,18:00,18,Building A,Classroom 101,0,0,0.14,0.14,0.14
+28,7,18:00,18,Building A,Classroom 102,0,0,438.23,438.23,438.23
+28,7,18:00,18,Building A,Computer Lab,0,0,1.9,1.9,1.9
+28,7,18:00,18,Building B,Classroom 201,0,0,0.68,0.68,0.68
+28,7,18:00,18,Building B,Laboratory,0,0,2.74,2.74,2.74
+28,7,18:00,18,Building B,Office,0,0,23.86,23.86,23.86
+29,1,07:00,7,Building A,Classroom 101,0,0,0.24,0.24,0.24
+29,1,07:00,7,Building A,Classroom 102,0,0,0.0,0.0,0.0
+29,1,07:00,7,Building A,Computer Lab,0,0,0.24,0.24,0.24
+29,1,07:00,7,Building B,Classroom 201,0,108,0.0,-108.0,108.0
+29,1,07:00,7,Building B,Laboratory,0,0,0.0,0.0,0.0
+29,1,07:00,7,Building B,Office,0,0,2.0,2.0,2.0
+29,1,08:00,8,Building A,Classroom 101,17,388,388.0,0.0,0.0
+29,1,08:00,8,Building A,Classroom 102,38,388,388.0,0.0,0.0
+29,1,08:00,8,Building A,Computer Lab,48,5564,5564.0,0.0,0.0
+29,1,08:00,8,Building B,Classroom 201,33,388,388.0,0.0,0.0
+29,1,08:00,8,Building B,Laboratory,13,424,424.0,0.0,0.0
+29,1,08:00,8,Building B,Office,5,822,822.0,0.0,0.0
+29,1,09:00,9,Building A,Classroom 101,14,688,688.0,0.0,0.0
+29,1,09:00,9,Building A,Classroom 102,32,388,388.0,0.0,0.0
+29,1,09:00,9,Building A,Computer Lab,44,5564,5564.0,0.0,0.0
+29,1,09:00,9,Building B,Classroom 201,30,388,388.0,0.0,0.0
+29,1,09:00,9,Building B,Laboratory,18,424,424.0,0.0,0.0
+29,1,09:00,9,Building B,Office,13,822,822.0,0.0,0.0
+29,1,10:00,10,Building A,Classroom 101,14,2188,2188.0,0.0,0.0
+29,1,10:00,10,Building A,Classroom 102,36,1888,1888.0,0.0,0.0
+29,1,10:00,10,Building A,Computer Lab,46,5564,5564.0,0.0,0.0
+29,1,10:00,10,Building B,Classroom 201,33,388,388.0,0.0,0.0
+29,1,10:00,10,Building B,Laboratory,37,3424,3424.0,0.0,0.0
+29,1,10:00,10,Building B,Office,11,2322,2322.0,0.0,0.0
+29,1,11:00,11,Building A,Classroom 101,26,1888,1888.0,0.0,0.0
+29,1,11:00,11,Building A,Classroom 102,22,1888,1888.0,0.0,0.0
+29,1,11:00,11,Building A,Computer Lab,47,5564,5564.0,0.0,0.0
+29,1,11:00,11,Building B,Classroom 201,32,388,388.0,0.0,0.0
+29,1,11:00,11,Building B,Laboratory,15,3424,3424.0,0.0,0.0
+29,1,11:00,11,Building B,Office,15,2322,2322.0,0.0,0.0
+29,1,12:00,12,Building A,Classroom 101,14,1888,1892.0,4.0,4.0
+29,1,12:00,12,Building A,Classroom 102,29,1888,1888.0,0.0,0.0
+29,1,12:00,12,Building A,Computer Lab,19,5564,5564.0,0.0,0.0
+29,1,12:00,12,Building B,Classroom 201,31,388,388.0,0.0,0.0
+29,1,12:00,12,Building B,Laboratory,22,3424,3424.0,0.0,0.0
+29,1,12:00,12,Building B,Office,9,2322,2322.0,0.0,0.0
+29,1,13:00,13,Building A,Classroom 101,31,1888,1888.0,0.0,0.0
+29,1,13:00,13,Building A,Classroom 102,34,1888,1888.0,0.0,0.0
+29,1,13:00,13,Building A,Computer Lab,26,5564,5564.0,0.0,0.0
+29,1,13:00,13,Building B,Classroom 201,40,388,388.0,0.0,0.0
+29,1,13:00,13,Building B,Laboratory,25,3424,3424.0,0.0,0.0
+29,1,13:00,13,Building B,Office,6,2322,2322.0,0.0,0.0
+29,1,14:00,14,Building A,Classroom 101,13,2188,2184.0,-4.0,4.0
+29,1,14:00,14,Building A,Classroom 102,18,1888,1888.0,0.0,0.0
+29,1,14:00,14,Building A,Computer Lab,38,5564,5564.0,0.0,0.0
+29,1,14:00,14,Building B,Classroom 201,28,388,388.0,0.0,0.0
+29,1,14:00,14,Building B,Laboratory,20,3424,3424.0,0.0,0.0
+29,1,14:00,14,Building B,Office,10,2322,2322.0,0.0,0.0
+29,1,15:00,15,Building A,Classroom 101,36,1888,1889.0,1.0,1.0
+29,1,15:00,15,Building A,Classroom 102,29,1888,1888.0,0.0,0.0
+29,1,15:00,15,Building A,Computer Lab,14,5564,5564.0,0.0,0.0
+29,1,15:00,15,Building B,Classroom 201,14,388,388.0,0.0,0.0
+29,1,15:00,15,Building B,Laboratory,24,3424,3424.0,0.0,0.0
+29,1,15:00,15,Building B,Office,9,2322,2322.0,0.0,0.0
+29,1,16:00,16,Building A,Classroom 101,36,1888,1889.0,1.0,1.0
+29,1,16:00,16,Building A,Classroom 102,29,1888,1888.0,0.0,0.0
+29,1,16:00,16,Building A,Computer Lab,41,5564,5564.0,0.0,0.0
+29,1,16:00,16,Building B,Classroom 201,29,388,388.0,0.0,0.0
+29,1,16:00,16,Building B,Laboratory,20,3424,3424.0,0.0,0.0
+29,1,16:00,16,Building B,Office,12,2322,2322.0,0.0,0.0
+29,1,17:00,17,Building A,Classroom 101,0,0,26.49,26.49,26.49
+29,1,17:00,17,Building A,Classroom 102,0,0,0.0,0.0,0.0
+29,1,17:00,17,Building A,Computer Lab,0,0,32.13,32.13,32.13
+29,1,17:00,17,Building B,Classroom 201,0,0,0.0,0.0,0.0
+29,1,17:00,17,Building B,Laboratory,0,0,4.17,4.17,4.17
+29,1,17:00,17,Building B,Office,0,0,0.0,0.0,0.0
+29,1,18:00,18,Building A,Classroom 101,0,0,28.21,28.21,28.21
+29,1,18:00,18,Building A,Classroom 102,0,0,1.5,1.5,1.5
+29,1,18:00,18,Building A,Computer Lab,0,0,0.32,0.32,0.32
+29,1,18:00,18,Building B,Classroom 201,0,0,0.0,0.0,0.0
+29,1,18:00,18,Building B,Laboratory,0,0,0.48,0.48,0.48
+29,1,18:00,18,Building B,Office,0,0,0.39,0.39,0.39
+30,2,07:00,7,Building A,Classroom 101,0,108,0.0,-108.0,108.0
+30,2,07:00,7,Building A,Classroom 102,0,0,0.0,0.0,0.0
+30,2,07:00,7,Building A,Computer Lab,0,0,0.1,0.1,0.1
+30,2,07:00,7,Building B,Classroom 201,0,0,0.18,0.18,0.18
+30,2,07:00,7,Building B,Laboratory,0,0,5.0,5.0,5.0
+30,2,07:00,7,Building B,Office,0,0,2.0,2.0,2.0
+30,2,08:00,8,Building A,Classroom 101,35,388,388.0,0.0,0.0
+30,2,08:00,8,Building A,Classroom 102,35,388,388.0,0.0,0.0
+30,2,08:00,8,Building A,Computer Lab,34,5564,5564.0,0.0,0.0
+30,2,08:00,8,Building B,Classroom 201,16,388,388.0,0.0,0.0
+30,2,08:00,8,Building B,Laboratory,38,424,424.0,0.0,0.0
+30,2,08:00,8,Building B,Office,11,822,822.0,0.0,0.0
+30,2,09:00,9,Building A,Classroom 101,38,688,688.0,0.0,0.0
+30,2,09:00,9,Building A,Classroom 102,39,388,388.0,0.0,0.0
+30,2,09:00,9,Building A,Computer Lab,19,5564,5564.0,0.0,0.0
+30,2,09:00,9,Building B,Classroom 201,24,388,388.0,0.0,0.0
+30,2,09:00,9,Building B,Laboratory,15,424,424.0,0.0,0.0
+30,2,09:00,9,Building B,Office,5,822,822.0,0.0,0.0
+30,2,10:00,10,Building A,Classroom 101,40,2188,2188.0,0.0,0.0
+30,2,10:00,10,Building A,Classroom 102,38,1888,1888.0,0.0,0.0
+30,2,10:00,10,Building A,Computer Lab,48,5564,5564.0,0.0,0.0
+30,2,10:00,10,Building B,Classroom 201,37,388,388.0,0.0,0.0
+30,2,10:00,10,Building B,Laboratory,30,3424,3424.0,0.0,0.0
+30,2,10:00,10,Building B,Office,10,2322,2322.0,0.0,0.0
+30,2,11:00,11,Building A,Classroom 101,40,1888,1889.0,1.0,1.0
+30,2,11:00,11,Building A,Classroom 102,28,1888,1888.0,0.0,0.0
+30,2,11:00,11,Building A,Computer Lab,37,5564,5564.0,0.0,0.0
+30,2,11:00,11,Building B,Classroom 201,18,388,388.0,0.0,0.0
+30,2,11:00,11,Building B,Laboratory,33,3424,3424.0,0.0,0.0
+30,2,11:00,11,Building B,Office,14,2322,2322.0,0.0,0.0
+30,2,12:00,12,Building A,Classroom 101,31,1888,1888.0,0.0,0.0
+30,2,12:00,12,Building A,Classroom 102,26,1888,1888.0,0.0,0.0
+30,2,12:00,12,Building A,Computer Lab,19,5564,5564.0,0.0,0.0
+30,2,12:00,12,Building B,Classroom 201,13,388,388.0,0.0,0.0
+30,2,12:00,12,Building B,Laboratory,29,3424,3424.0,0.0,0.0
+30,2,12:00,12,Building B,Office,12,2322,2322.0,0.0,0.0
+30,2,13:00,13,Building A,Classroom 101,34,1888,1888.0,0.0,0.0
+30,2,13:00,13,Building A,Classroom 102,39,1888,1888.0,0.0,0.0
+30,2,13:00,13,Building A,Computer Lab,31,5564,5564.0,0.0,0.0
+30,2,13:00,13,Building B,Classroom 201,36,388,388.0,0.0,0.0
+30,2,13:00,13,Building B,Laboratory,32,3424,3424.0,0.0,0.0
+30,2,13:00,13,Building B,Office,8,2322,2322.0,0.0,0.0
+30,2,14:00,14,Building A,Classroom 101,36,2188,2185.0,-3.0,3.0
+30,2,14:00,14,Building A,Classroom 102,14,1888,1889.0,1.0,1.0
+30,2,14:00,14,Building A,Computer Lab,35,5564,5564.0,0.0,0.0
+30,2,14:00,14,Building B,Classroom 201,39,388,388.0,0.0,0.0
+30,2,14:00,14,Building B,Laboratory,30,3424,3424.0,0.0,0.0
+30,2,14:00,14,Building B,Office,15,2322,2322.0,0.0,0.0
+30,2,15:00,15,Building A,Classroom 101,14,1888,1892.0,4.0,4.0
+30,2,15:00,15,Building A,Classroom 102,27,1888,1888.0,0.0,0.0
+30,2,15:00,15,Building A,Computer Lab,42,5564,5564.0,0.0,0.0
+30,2,15:00,15,Building B,Classroom 201,30,388,388.0,0.0,0.0
+30,2,15:00,15,Building B,Laboratory,37,3424,3424.0,0.0,0.0
+30,2,15:00,15,Building B,Office,10,2322,2322.0,0.0,0.0
+30,2,16:00,16,Building A,Classroom 101,32,1888,1889.0,1.0,1.0
+30,2,16:00,16,Building A,Classroom 102,24,1888,1888.0,0.0,0.0
+30,2,16:00,16,Building A,Computer Lab,46,5564,5564.0,0.0,0.0
+30,2,16:00,16,Building B,Classroom 201,16,388,388.0,0.0,0.0
+30,2,16:00,16,Building B,Laboratory,17,3424,3424.0,0.0,0.0
+30,2,16:00,16,Building B,Office,6,2322,2322.0,0.0,0.0
+30,2,17:00,17,Building A,Classroom 101,0,0,26.28,26.28,26.28
+30,2,17:00,17,Building A,Classroom 102,0,0,0.42,0.42,0.42
+30,2,17:00,17,Building A,Computer Lab,0,0,0.27,0.27,0.27
+30,2,17:00,17,Building B,Classroom 201,0,0,27.93,27.93,27.93
+30,2,17:00,17,Building B,Laboratory,0,0,693.83,693.83,693.83
+30,2,17:00,17,Building B,Office,0,0,1.19,1.19,1.19
+30,2,18:00,18,Building A,Classroom 101,0,0,0.85,0.85,0.85
+30,2,18:00,18,Building A,Classroom 102,0,0,54.39,54.39,54.39
+30,2,18:00,18,Building A,Computer Lab,0,0,0.0,0.0,0.0
+30,2,18:00,18,Building B,Classroom 201,0,0,0.9,0.9,0.9
+30,2,18:00,18,Building B,Laboratory,0,0,36.48,36.48,36.48
+30,2,18:00,18,Building B,Office,0,0,36.15,36.15,36.15
