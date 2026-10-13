@@ -20,6 +20,11 @@ to demonstrate how data-driven techniques can support energy management.
 
 \---
 
+## Live Demo
+
+**Dashboard:** https://ecotrack-smart-campus.vercel.app/
+
+**Source Code:** https://github.com/Alwyn07/ecotrack-smart-campus
 
 
 \## Project Overview
